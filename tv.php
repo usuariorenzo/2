@@ -1,6 +1,6 @@
 
 <head>
-<link href="netflix.css" rel="stylesheet">
+<link href="http://blackaddon.com/web/netflix.css" rel="stylesheet">
 </head>
 <body bgcolor="#222222">
 <font color="#ffffff">
