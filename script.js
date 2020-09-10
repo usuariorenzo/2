@@ -87,3 +87,8 @@ $(document).ready(function() {
     }, 1900);
   });
 });
+
+
+<script type='text/javascript'>
+	document.oncontextmenu = function(){return false}
+</script>
