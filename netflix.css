@@ -49,6 +49,7 @@ body{background:#13141e;color:rgba(0,0,0,.6);font-family:"Quicksand"
       margin-left: calc((var(--carousel-tile-width) * (var(--carousel-growth-factor) - 1)) / 2);
       margin-right: calc((var(--carousel-tile-width) * (var(--carousel-growth-factor) - 1)) / 2);
       transition: var(--carousel-transition-2);
+ -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
 /* Content Tile */
@@ -66,6 +67,7 @@ body{background:#13141e;color:rgba(0,0,0,.6);font-family:"Quicksand"
       transform-origin: center left;
       cursor: pointer;
       cursor: hand;
+ -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
 /* Add Extra Margin to Last Carousel Tile */
